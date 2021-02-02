@@ -1,0 +1,15 @@
+{
+  "name": "hello-fastify",
+  "version": "1.0.0",
+  "description": "A sample application with Fastify",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian Rios <carios23@me.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^3.11.0",
+    "pino-pretty": "^4.5.0"
+  }
+}
